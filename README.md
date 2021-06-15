@@ -42,9 +42,12 @@ Ing. Darwin Omar Alulema Flores
 
 ### **MARCO TEÓRICO (RESUMEN)**
 
+<div align="center">
 
+![image](https://github.com/Jhosu115/Tarea-3/blob/main/Diagrama%20en%20blanco.png)
 
-
+ </div>
+ 
 ### **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 

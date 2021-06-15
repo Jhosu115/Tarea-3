@@ -51,15 +51,22 @@ Ing. Darwin Omar Alulema Flores
 ### **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 
-
+[Ejercicios Resueltos](https://github.com/Jhosu115/Tarea-2-/blob/main/Ejercicios%20Capítulos%203%20y%204.pdf)
 
 ### **4. VIDEO**
 
-
+[![Video de los ejercicios](https://github.com/Jhosu115/Tarea-2-/blob/main/imagen_2021-06-07_224156.png)](https://youtu.be/JE8T71GkiY8)
 
 ### **5. CONCLUSIONES**
 
+* Se logro determinar las intensidades ,resistencias ,potencias y voltajes de los circuitos planteados en el capitulo 5 y 6 , través de una investigación exhaustiva sobre los métodos utilizados para la resolución de circuitos y mallas como las leyes de Kirchhoff que facilitan el entendimiento del mismo.
 
-
+* Tras la resolución de los ejercicios se pudo llegar a un  mejor entendimiento de los temas planteados en los capítulos 5 y 6 además de un correcto uso de las diversas formulas usadas para la resolución de problemas.
 
 ### **6. BIBLIOGRAFÍA**
+
+* Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos. Pearson Educación.
+
+* Edminister, J. A. (1988). Circuitos eléctricos. McGraw-Hill
+
+*Juárez, A. R. R. Leyes de Kirchhoff
